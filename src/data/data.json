@@ -1,0 +1,112 @@
+{
+"profile":[
+    {
+        "basics":
+        { 
+            "name":"Chaitanya",
+            "pin":"Rajahmundry",
+            "college":"GIET",
+            "email":"chaitanya@gmail.com",
+            "Mobile":"8008894221"
+        },
+        "carrer": "Aiming to work as software developer and utilize my skills for growth of organisation",
+       "edu":
+       {
+           "btech":"GIET",
+           "bco":"B-tech (CSE)",
+           "bper":"84.4",
+           "byr":"2021",
+
+           "inter":"Narayana Junior College",
+           "ico":"Inter",
+           "iper":"92",
+           "iyr":"2017",
+
+           "ssc":"sri Shirdi Sai Vidya Nikethan",
+           "Sco":"SSC",
+           "Sper":"95",
+           "Syr":"2015"
+       },
+       "skills":
+       {
+           "s":["Python","Java","C","Reactjs","SQL"]
+       },
+       
+       "hobby":
+       {
+           "h":["Drawing","Playing PUBG","Movies"]
+       },
+       "achieve":
+        {
+        "ai":[
+            
+            "Certified in NPTEL Java Certification with Elite gold ",
+            "Certified in NPTEL DBMS Certification with Elite" ,
+            "Certification course on Python Programming from Coursera ",
+            " Certification course on Cloud Computing Basics from Coursera "
+            
+            
+        ],
+        "declare":"I hereby declare that above mentioned details are true to the best of my Knowledge"
+    }
+    },
+    
+
+   
+
+    {
+        "basics":
+        { 
+            "name":"Jahanvi",
+            "pin":"Hyderabad",
+            "college":"Adithya Engineering college",
+            "email":"jahanvi@gmail.com",
+            "Mobile":"8008894221"
+        },
+        "carrer": "Aiming to work as software developer and utilize my skills for growth of organisation",
+       "edu":
+       {
+           "btech":"Adithya engineering college ",
+           "bco":"B-tech (CSE)",
+           "bper":"92.4",
+           "byr":"2021",
+
+           "inter":"Narayana Junior College",
+           "ico":"Inter",
+           "iper":"80",
+           "iyr":"2017",
+
+           "ssc":"sri Shirdi Sai Vidya Nikethan",
+           "Sco":"SSC",
+           "Sper":"9",
+           "Syr":"2015"
+       },
+       "skills":
+       {
+           "s":["Python","Java","C","Reactjs","SQL","HtML/CSS/JS"]
+       },
+       
+       "hobby":
+       {
+           "h":["Reading books","Playing PUBG","listenng to music"]
+       },
+       "achieve":
+        {
+        "ai":[
+            
+            "Certified in NPTEL Java Certification with Elite silver ",
+            "Certified in NPTEL DBMS Certification with Elite" ,
+            "Certification course on Python Programming from Coursera "
+            
+            
+            
+        ],
+        "declare":"I hereby declare that above mentioned details are true to the best of my Knowledge"
+    }
+}
+    
+
+    
+]
+
+}
